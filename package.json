@@ -1,0 +1,12 @@
+{
+  "name": "albumin-example",
+  "version": "1.0.0",
+  "description": "A 135 bytes http server for hello world.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "Davi Figueiredo",
+  "license": "ISC",
+  "dependencies": {}
+}

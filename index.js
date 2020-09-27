@@ -1,0 +1,1 @@
+require("http").createServer((a,b)=>("/"!==a.url&&b.writeHead(404).end("Not found"),b.writeHead(200).end("hello world"))).listen(8076);
